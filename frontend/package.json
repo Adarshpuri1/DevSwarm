@@ -1,0 +1,26 @@
+{
+  "name": "devswarm-frontend",
+  "version": "1.0.0",
+  "description": "DevSwarm Multi-Agent AI Developer Platform - Frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.2.10",
+    "gsap": "^3.12.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.3.1"
+  }
+}
