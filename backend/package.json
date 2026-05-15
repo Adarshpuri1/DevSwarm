@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
-    "test": "jest --coverage",
-    "build": "vite build"
+    "test": "jest --coverage"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
